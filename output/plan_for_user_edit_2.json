@@ -1,0 +1,354 @@
+{
+    "title": "State of the Art Review: Surgical Interventions and Return to Sport Following Sacroiliac Joint Dysfunction",
+    "template_used": "MEDICAL",
+    "sections": [
+        {
+            "section_title": "1. Introduction",
+            "key_points": [
+                "Paragraph 1: Sacroiliac joint (SIJ) dysfunction is a recognized source of low back pain, affecting a significant portion of the population and impacting quality of life. When conservative treatments fail, surgical interventions, such as SIJ fusion, become a viable option to reduce or eliminate pain.",
+                "Paragraph 2: The increasing number of SIJ fusions performed annually highlights the need for a comprehensive review of the current state of the art. This review addresses the gaps in knowledge regarding complications, revision rates, and the impact of surgical techniques on return to sport.",
+                "Paragraph 3: This review analyzes the current literature on surgical interventions for SIJ dysfunction, focusing on complications, implant survivorship, and biomechanical considerations. The review will include studies on SIJ fusion using FDA 510(k) cleared devices and biomechanical studies evaluating different screw designs.",
+                "Paragraph 4: The SOTA is organized to provide a comprehensive overview of SIJ dysfunction, surgical techniques, and their impact on return to sport. The review will begin with an introduction to the clinical context, followed by background information on anatomy, pathophysiology, and epidemiology. The core of the review will focus on device analysis, comparative analysis, evidence synthesis, and gaps. The review will conclude with a synthesis of key findings, clinical implications, and future directions."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                },
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                },
+                {
+                    "id": "Cher 2015.pdf",
+                    "author": "Cher et al.",
+                    "year": "2015"
+                }
+            ]
+        },
+        {
+            "section_title": "2. Background & Clinical Context",
+            "key_points": [
+                "Abstract: SIJ dysfunction is a prevalent cause of low back pain, with surgical fusion being a treatment option when conservative methods fail. This section provides an overview of the clinical background, including the anatomy, pathophysiology, and epidemiology of SIJ dysfunction.",
+                "Key Insights: The SIJs are mobile in all 3 anatomic planes and have intra-articular and extra-articular pain generators. The number of SIJ fusions is increasing annually, with minimally invasive, FDA 510(k) cleared implants being the most utilized. The prevalence of low back pain originating from the SIJ is thought to range from 2% to 30%.",
+                {
+                    "section_title": "H3 - Anatomy & Physiology",
+                    "key_points": [
+                        "Paragraph 1: The sacroiliac joints (SIJs) are mobile in all 3 anatomic planes, with intra-articular pain generators along with closely associated extra-articular pain generators.",
+                        "Paragraph 2: The SIJs play a crucial role in load transfer between the spine and the lower extremities. The biomechanical function of the SIJ is essential for activities such as walking, running, and other sports.",
+                        "Paragraph 3: The anatomy and biomechanics of the SIJ are relevant to device design, as the implants must provide stability and promote fusion while minimizing the risk of complications."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Pathophysiology",
+                    "key_points": [
+                        "Paragraph 1: SIJ dysfunction can result from various mechanisms, including trauma, degeneration, and inflammatory conditions. These mechanisms can lead to pain and instability.",
+                        "Paragraph 2: Pathology in the SIJ can lead to symptoms such as low back pain, buttock pain, and referred pain to the lower extremities. The pain can significantly impact a patient's ability to participate in sports and other activities.",
+                        "Paragraph 3: The pathophysiology of SIJ dysfunction influences the choice of surgical versus non-surgical treatments. Surgical fusion aims to eliminate pain by stabilizing the joint."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Epidemiology",
+                    "key_points": [
+                        "Paragraph 1: The prevalence of low back pain originating from the SIJ is thought to range from 2% to 30%. The number of SIJ fusions is on an annually accelerating upward trend.",
+                        "Paragraph 2: Risk factors for SIJ dysfunction include trauma, repetitive stress, and degenerative changes. Demographic patterns show that SIJ dysfunction can affect individuals of all ages, but it is more common in certain populations.",
+                        "Paragraph 3: SIJ dysfunction and its treatment place a burden on healthcare systems and can have socio-economic impacts due to lost productivity and healthcare costs."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        }
+                    ]
+                }
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                }
+            ]
+        },
+        {
+            "section_title": "3. Clinical Presentation & Diagnosis",
+            "key_points": [
+                "Abstract: This section focuses on the clinical presentation and diagnostic methods for SIJ dysfunction. It covers symptoms, functional impact, diagnostic criteria, imaging modalities, and the current treatment landscape.",
+                "Key Insights: Core symptoms include low back pain, buttock pain, and referred pain. Diagnostic criteria involve clinical tests and imaging. Current treatment options range from non-surgical to surgical interventions.",
+                {
+                    "section_title": "H3 - Symptoms & Functional Impact",
+                    "key_points": [
+                        "Paragraph 1: Core symptoms of SIJ dysfunction include low back pain, buttock pain, and pain radiating to the lower extremities. Radicular pain was the most common symptom reported by patients.",
+                        "Paragraph 2: Functional limitations include difficulty with activities such as walking, sitting, and standing. These limitations can significantly impact a patient's ability to participate in sports and other activities.",
+                        "Paragraph 3: SIJ dysfunction can have a significant impact on quality of life, affecting physical function, social activities, and overall well-being."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Diagnostic Criteria & Imaging",
+                    "key_points": [
+                        "Paragraph 1: Clinical tests and maneuvers, such as the SI joint provocation tests, are used to assess SIJ dysfunction. These tests help to identify the source of pain.",
+                        "Paragraph 2: Imaging modalities, including X-rays, CT scans, and MRI, are used to evaluate the SIJ. These imaging techniques can help to identify structural abnormalities and confirm the diagnosis.",
+                        "Paragraph 3: Differential diagnosis includes other causes of low back pain, such as lumbar disc herniation and facet joint pain. Diagnostic accuracy is crucial for appropriate treatment selection."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Current Treatment Landscape",
+                    "key_points": [
+                        "Paragraph 1: Non-surgical management includes physical therapy, medication, and injections. These treatments aim to reduce pain and improve function.",
+                        "Paragraph 2: Surgical indications for SIJ fusion are typically based on the failure of conservative treatments and the presence of significant pain and functional limitations. Decision points include patient selection and the severity of symptoms.",
+                        "Paragraph 3: Overview of surgical approaches includes minimally invasive techniques using FDA 510(k) cleared implants. The choice of approach depends on the patient's condition and the surgeon's preference."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        }
+                    ]
+                }
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                }
+            ]
+        },
+        {
+            "section_title": "4. CORE DEVICE ANALYSIS: SI JOINT FUSION",
+            "key_points": [
+                "Abstract: This section provides an in-depth analysis of SIJ fusion devices, including their intended purpose, design features, mechanism of action, and evidence summaries. The focus is on devices used in minimally invasive SIJ fusion.",
+                "Key Insights: Minimally invasive SIJ fusion involves the use of implants to stabilize and fuse the SIJ. The iFuse Implant System is a commonly used device. Biomechanical studies evaluate the stability of different screw designs.",
+                {
+                    "section_title": "H3 - iFuse Implant System Overview",
+                    "key_points": [
+                        "Paragraph 1: The iFuse Implant System is intended for sacroiliac fusion for conditions including sacroiliac joint dysfunction that is a direct result of sacroiliac joint disruption and degenerative sacroiliitis. This includes conditions in which symptoms began during pregnancy or in the peripartum period and have persisted postpartum for more than 6 months.",
+                        "Paragraph 2: The iFuse Implant System includes a delivery system to place a series of triangular titanium implants coated with a porous titanium plasma spray across the SI joint using a lateral, transarticular approach under fluoroscopic guidance. The implant's shape allows for immediate stabilization of the joint and the titanium plasma spray coating allows for biologic fixation in bone.",
+                        "Paragraph 3: The iFuse Implant System is an FDA 510(k) cleared device used for minimally invasive SIJ fusion. The device has been used in numerous clinical studies and has a well-established regulatory status."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Cher 2015.pdf",
+                            "author": "Cher et al.",
+                            "year": "2015"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Mechanism of Action",
+                    "key_points": [
+                        "Paragraph 1: The iFuse Implant System achieves fusion by providing immediate stabilization of the joint and promoting bone growth across the SIJ. The implants are designed to create a stable environment for fusion.",
+                        "Paragraph 2: Biomechanical principles involve the use of triangular implants that are inserted across the SIJ. The implant's design and placement provide stability and resist movement.",
+                        "Paragraph 3: The mechanism of action of the iFuse Implant System has implications for clinical outcomes, including pain relief, improved function, and fusion rates."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Cher 2015.pdf",
+                            "author": "Cher et al.",
+                            "year": "2015"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Evidence Summary for Each Device",
+                    "key_points": [
+                        "Paragraph 1: The available literature on the iFuse Implant System includes case series, prospective studies, and multi-center trials. These studies evaluate the safety and effectiveness of the device.",
+                        "Paragraph 2: Key outcomes include fusion rates, pain relief, and functional improvement. The iFuse Implant System has demonstrated positive outcomes in terms of pain reduction and improved function.",
+                        "Paragraph 3: Safety and complications include implant malposition, neural impingement, and the need for revision surgery. The revision rate with this implant is high and improving.",
+                        "Paragraph 4: The strengths of the evidence include the use of prospective studies and multi-center trials. Weaknesses include the lack of long-term follow-up in some studies and the potential for bias in industry-sponsored studies."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Cher 2015.pdf",
+                            "author": "Cher et al.",
+                            "year": "2015"
+                        }
+                    ]
+                }
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Cher 2015.pdf",
+                    "author": "Cher et al.",
+                    "year": "2015"
+                }
+            ]
+        },
+        {
+            "section_title": "5. COMPARATIVE ANALYSIS",
+            "key_points": [
+                "Abstract: This section provides a comparative analysis of different SIJ fusion techniques and devices. It focuses on the clinical rationale, outcomes, and technical differences between the approaches.",
+                "Key Insights: Different screw designs and techniques are used for SIJ fusion. Biomechanical studies compare the stability of these techniques. Clinical outcomes vary depending on the technique used.",
+                {
+                    "section_title": "H3 - Comparison of Devices (Rationale, Outcomes, Technical)",
+                    "key_points": [
+                        "Paragraph 1: Clinical Rationale Comparison: The choice of SIJ fusion technique depends on factors such as the patient's condition, the surgeon's preference, and the specific goals of the surgery. Different screw designs and techniques are used to achieve fusion.",
+                        "Paragraph 2: Clinical & Safety Outcomes Comparison: Outcomes such as fusion rates, pain relief, and complication rates vary depending on the technique used. The use of a washer with fully threaded short screws could lead to a significantly diminished biomechanical stability. The omission of the washer in fully threaded short screws could lead to a significant diminished biomechanical stability.",
+                        "Paragraph 3: Technical Differences + Transition: Technical differences include the type of implants used, the surgical approach, and the biomechanical principles involved. The use of partially threaded short or fully threaded long transsacral S1-S2 screws for treatment of posterior pelvis ring injuries in young trauma patients, a washer could be optional. The surgical method of S1-S2 SI screw fixation of the posterior pelvis ring without the washer has never been evaluated biomechanically."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Berk 2023.pdf",
+                            "author": "Berk et al.",
+                            "year": "2023"
+                        }
+                    ]
+                }
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "section_title": "6. EVIDENCE SYNTHESIS & GAPS",
+            "key_points": [
+                "Abstract: This section synthesizes the key findings from the literature and identifies evidence gaps and limitations. It also discusses unmet clinical needs and areas for future research.",
+                "Key Insights: The majority of complications reported to MAUDE for FDA 510(k) cleared SIJ fusion devices are from user error. There is a lack of formal tracking of SIJ fusions. More studies are needed to evaluate the underlying causes and true complication and revision rates following SIJ fusions.",
+                {
+                    "section_title": "H3 - Summary of Key Findings",
+                    "key_points": [
+                        "Paragraph 1: Major clinical insights include the effectiveness of SIJ fusion in reducing pain and improving function. The majority of complications reported to MAUDE for FDA 510(k) cleared SIJ fusion devices are from user error due to improper placement of implants.",
+                        "Paragraph 2: Patterns in safety and effectiveness show that the revision rate with the iFuse Implant System is high and improving. The omission of the washer in fully threaded short screws could lead to a significant diminished biomechanical stability.",
+                        "Paragraph 3: Design-related implications include the importance of implant design and surgical technique in achieving successful outcomes. The root cause of the complications reported to MAUDE was user error at 58.2%."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        },
+                        {
+                            "id": "Berk 2023.pdf",
+                            "author": "Berk et al.",
+                            "year": "2023"
+                        },
+                        {
+                            "id": "Cher 2015.pdf",
+                            "author": "Cher et al.",
+                            "year": "2015"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Evidence Gaps & Limitations",
+                    "key_points": [
+                        "Paragraph 1: Methodological weaknesses in the literature include the lack of standardized outcome measures and the potential for bias in industry-sponsored studies. This study has several limitations. This is a retrospective database analysis.",
+                        "Paragraph 2: Missing populations or endpoints include the lack of long-term follow-up data and the absence of information on return to sport. The best available data was obtained, extrapolated, and analyzed for overall trends.",
+                        "Paragraph 3: The impact of these gaps on interpretation is that the true complication and revision rates may be underestimated. There is currently no standardized tracking system of total annual SIJ fusions performed. Therefore, accurate complication and reoperation rates are impossible to calculate."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        },
+                        {
+                            "id": "Cher 2015.pdf",
+                            "author": "Cher et al.",
+                            "year": "2015"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "H3 - Unmet Clinical Needs",
+                    "key_points": [
+                        "Paragraph 1: Lack of long-term data on the durability of SIJ fusions and the impact on patient outcomes. The complications reported and examined here are likely underreported, and there is currently no formal tracking system of total SIJ fusions performed to calculate accurate complication and revision rates.",
+                        "Paragraph 2: Gaps in patient selection evidence, including the identification of patients most likely to benefit from surgery. The available data currently lacks specific surgeon demographics, so further categorization is not possible.",
+                        "Paragraph 3: Rationale for innovation or new studies, including the need for improved surgical techniques and implant designs to reduce complications and improve outcomes. Additional biomechanical cadaveric studies should be initiated for a reliable interpretation of washerless fixations and their potential for the therapy of the injured posterior pelvis ring."
+                    ],
+                    "mapped_sources": [
+                        {
+                            "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                            "author": "Rahl et al.",
+                            "year": "2022"
+                        },
+                        {
+                            "id": "Berk 2023.pdf",
+                            "author": "Berk et al.",
+                            "year": "2023"
+                        }
+                    ]
+                }
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                },
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                },
+                {
+                    "id": "Cher 2015.pdf",
+                    "author": "Cher et al.",
+                    "year": "2015"
+                }
+            ]
+        },
+        {
+            "section_title": "7. CONCLUSION",
+            "key_points": [
+                "Paragraph 1: Global Synthesis: SIJ fusion is an effective treatment for SIJ dysfunction, but complications and revision rates exist. The majority of complications reported to MAUDE for FDA 510(k) cleared SIJ fusion devices are from user error due to improper placement of implants.",
+                "Paragraph 2: Clinical Implications: Improved education, training, and oversight are needed to reduce complications and improve patient outcomes. From a biomechanical perspective, a washer could be optional when using partially threaded short or fully threaded long transsacral S1-S2 screws for treatment of posterior pelvis ring injuries in young trauma patients.",
+                "Paragraph 3: Future Directions: Future research should focus on long-term outcomes, patient selection criteria, and the impact of surgical techniques on return to sport. Additional biomechanical cadaveric studies should be initiated for a reliable interpretation of washerless fixations and their potential for the therapy of the injured posterior pelvis ring.",
+                "Paragraph 4: Final Statement: SIJ fusion offers a valuable treatment option for SIJ dysfunction, but ongoing efforts are needed to optimize surgical techniques and improve patient outcomes."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                },
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                },
+                {
+                    "id": "Cher 2015.pdf",
+                    "author": "Cher et al.",
+                    "year": "2015"
+                }
+            ]
+        }
+    ]
+}

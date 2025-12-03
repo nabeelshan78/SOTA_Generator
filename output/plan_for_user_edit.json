@@ -1,0 +1,143 @@
+{
+    "title": "Biomechanical Efficacy of Washers in Sacroiliac Joint Fusion: A State-of-the-Art Review",
+    "template_used": "MEDICAL",
+    "sections": [
+        {
+            "section_title": "1. Introduction",
+            "key_points": [
+                "The sacroiliac (SI) joint is a significant source of low back pain, with fusion becoming a viable option when conservative treatments fail <citation author='Rahl et al.' year='2022'>. The increasing number of SIJ fusions highlights the importance of understanding the biomechanical aspects of the procedures.",
+                "Current knowledge gaps exist regarding the optimal techniques and components used in SI joint fusion, particularly concerning the use of washers with screws. This review aims to address these gaps by analyzing the biomechanical efficacy of washers in SI joint fusion.",
+                "This review will focus on the biomechanical performance of SI screw fixation, specifically evaluating the impact of using washers across different screw designs in the context of posterior pelvis ring injuries.",
+                "The review is structured to provide a comprehensive overview of the clinical context, biomechanical principles, device characteristics, and comparative analysis of SI joint fusion techniques, culminating in a synthesis of evidence and identification of unmet needs."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                },
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "section_title": "2. Background & Clinical Context",
+            "key_points": [
+                "Abstract: SI joint disorders are a well-known medical condition with both surgical and nonsurgical treatment options. Surgical options have involved decortication of the SI joint and permanent fixation using screws and plates during an open surgical procedure <citation author='Cher' year='2015'>. More recently, several devices for minimally invasive SI joint fusion have become commercially available.",
+                "Key Insights: The prevalence of low back pain originating from the SIJ is thought to range anywhere from 2% to 30% <citation author='Rahl et al.' year='2022'>. Cannulated screws are the gold standard for percutaneous treatment of sacroiliac (SI) pelvis ring injuries <citation author='Berk et al.' year='2023'>. The choice of whether to use these screws in combination with a washer is still undecided <citation author='Berk et al.' year='2023'>.",
+                "H3 - Anatomy & Physiology: The SIJs are mobile in all 3 anatomic planes and have been shown to have intra-articular pain generators along with closely associated extra-articular pain generators <citation author='Rahl et al.' year='2022'>. The SI joint is stabilized by strong ligaments and muscles, allowing for limited motion.",
+                "H3 - Pathophysiology: When conservative treatment for SIJ pain fails, arthrodesis becomes a viable option to reduce or eliminate pain from this joint <citation author='Rahl et al.' year='2022'>. Complications can arise from improper implant placement, leading to malposition and potential nerve impingement.",
+                "H3 - Epidemiology: The number of SIJ fusions continues to be on an annually accelerating upward trend <citation author='Rahl et al.' year='2022'>. The complication rate for minimally invasive SIJ arthrodesis has been reported to be between 0% and 18% with revision rates ranging from 0% to 6.3% <citation author='Rahl et al.' year='2022'>."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                },
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                },
+                {
+                    "id": "Cher 2015.pdf",
+                    "author": "Cher",
+                    "year": "2015"
+                }
+            ]
+        },
+        {
+            "section_title": "3. Clinical Presentation & Diagnosis",
+            "key_points": [
+                "Abstract: The clinical presentation of SI joint dysfunction often involves low back pain, which may radiate to the lower extremities. Diagnosis typically involves a combination of physical examination, provocative maneuvers, and imaging studies.",
+                "Key Insights: The most common symptom reported by patients was radicular pain <citation author='Rahl et al.' year='2022'>. Diagnostic criteria include pain provocation tests and imaging to confirm SI joint involvement.",
+                "H3 - Symptoms & Functional Impact: Core symptoms include low back pain, buttock pain, and pain radiating to the leg. Functional limitations may include difficulty with activities like walking, sitting, and standing.",
+                "H3 - Diagnostic Criteria & Imaging: Clinical tests and maneuvers are used to assess SI joint pain. Imaging modalities include X-rays, CT scans, and MRI to evaluate the joint and rule out other causes of pain.",
+                "H3 - Current Treatment Landscape: Non-surgical management includes physical therapy, medication, and injections. Surgical indications are considered when conservative treatments fail, with minimally invasive SI joint fusion being a common approach <citation author='Rahl et al.' year='2022'>."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf",
+                    "author": "Rahl et al.",
+                    "year": "2022"
+                }
+            ]
+        },
+        {
+            "section_title": "4. CORE DEVICE ANALYSIS: SI JOINT FUSION",
+            "key_points": [
+                "Abstract: This section will analyze the iFuse Implant System and the biomechanical impact of washers in SI joint fusion, focusing on screw designs and their performance.",
+                "Key Insights: The iFuse Implant System is a permanent implant used to perform minimally invasive sacroiliac joint fusion <citation author='Cher' year='2015'>. The biomechanical competence of S1-S2 SI screw fixations, with and without using a washer, across three different screw designs was evaluated <citation author='Berk et al.' year='2023'>.",
+                "H3 - iFuse Implant System Overview: The iFuse Implant System is intended for sacroiliac fusion for conditions including sacroiliac joint dysfunction <citation author='Cher' year='2015'>. The iFuse Implant System includes a delivery system to place a series of triangular titanium implants coated with a porous titanium plasma spray across the SI joint using a lateral, transarticular approach under fluoroscopic guidance <citation author='Cher' year='2015'>.",
+                "H3 - Mechanism of Action: The iFuse implant's shape allows for immediate stabilization of the joint and the titanium plasma spray coating allows for biologic fixation in bone <citation author='Cher' year='2015'>. The biomechanical principles involve achieving fusion through stabilization and bone ingrowth.",
+                "H3 - Evidence Summary for Each Device: The survivorship rate with this implant is high and improving <citation author='Cher' year='2015'>. The 4-year survival rate free from revision surgery was 96.46% <citation author='Cher' year='2015'>. The omission of the washer in fully threaded short screws could lead to a significant diminished biomechanical stability <citation author='Berk et al.' year='2023'>."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Cher 2015.pdf",
+                    "author": "Cher",
+                    "year": "2015"
+                },
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "section_title": "5. COMPARATIVE ANALYSIS",
+            "key_points": [
+                "Abstract: This section compares the biomechanical performance of different screw designs (partially threaded, fully threaded short, and fully threaded long transsacral) with and without washers in SI joint fusion.",
+                "Key Insights: Partially threaded short and fully threaded long transsacral screws demonstrated equivalent biomechanical stability under dynamic loading disregarding whether a washer was used or not <citation author='Berk et al.' year='2023'>. Omission of the washer led to a significantly diminished biomechanical stability under dynamic loading with fully threaded short screws <citation author='Berk et al.' year='2023'>.",
+                "H3 - Comparison of Devices: (Rationale, Outcomes, Technical): The clinical rationale for using washers is to enhance fixation and prevent screw intrusion <citation author='Berk et al.' year='2023'>. The study by Berk et al. found that the omission of the washer in fully threaded short screws could lead to a significant diminished biomechanical stability. The study also found that partially threaded short and fully threaded long transsacral screws demonstrated equivalent biomechanical stability under dynamic loading disregarding whether a washer was used or not <citation author='Berk et al.' year='2023'>. Technical differences include screw thread design and length, which influence biomechanical properties.",
+                "H3 - Clinical & Safety Outcomes Comparison: The study by Berk et al. found that the number of cycles to failure and the corresponding load at failure (N) were significantly higher for the fully threaded short screws with a washer versus its counterpart without a washer <citation author='Berk et al.' year='2023'>. The study also found that the omission of the washer led to a significantly diminished biomechanical stability under dynamic loading with fully threaded short screws <citation author='Berk et al.' year='2023'>. The failure modes for all fixation methods were expressed by a fracture of the ilium between the polymethylmethacrylate ilium fixation and the S2 SI screw <citation author='Berk et al.' year='2023'>.",
+                "H3 - Technical Differences + Transition: The study by Berk et al. used three different screw designs: partially threaded short screws, fully threaded short screws, and fully threaded long transsacral screws <citation author='Berk et al.' year='2023'>. The study found that a washer could be optional when using partially threaded short or fully threaded long transsacral S1-S2 screws for treatment of posterior pelvis ring injuries in young trauma patients <citation author='Berk et al.' year='2023'>."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "section_title": "6. EVIDENCE SYNTHESIS & GAPS",
+            "key_points": [
+                "Abstract: This section synthesizes the evidence on the biomechanical efficacy of washers in SI joint fusion, highlighting key findings, limitations, and unmet clinical needs.",
+                "Key Insights: From a biomechanical perspective, a washer could be optional when using partially threaded short or fully threaded long transsacral S1-S2 screws for treatment of posterior pelvis ring injuries in young trauma patients <citation author='Berk et al.' year='2023'>. The omission of the washer in fully threaded short screws could lead to a significant diminished biomechanical stability <citation author='Berk et al.' year='2023'>.",
+                "H3 - Summary of Key Findings: The study by Berk et al. found that the omission of the washer led to a significantly diminished biomechanical stability under dynamic loading with fully threaded short screws <citation author='Berk et al.' year='2023'>. Partially threaded short and fully threaded long transsacral screws demonstrated equivalent biomechanical stability under dynamic loading disregarding whether a washer was used or not <citation author='Berk et al.' year='2023'>.",
+                "H3 - Evidence Gaps & Limitations: The study by Berk et al. used artificial bone models, which may not fully simulate the complexities of human bone <citation author='Berk et al.' year='2023'>. The study's failure modes, fracturing of the ilium, may not be clinically relevant for young patients <citation author='Berk et al.' year='2023'>. Missing torque data on the tightening force of the screws with and without washers is another limitation <citation author='Berk et al.' year='2023'>.",
+                "H3 - Unmet Clinical Needs: Further biomechanical cadaveric studies should be initiated for a reliable interpretation of washerless fixations and their potential for the therapy of the injured posterior pelvis ring <citation author='Berk et al.' year='2023'>. There is a need for more research to determine the optimal screw design and technique for SI joint fusion."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "section_title": "7. CONCLUSION",
+            "key_points": [
+                "The biomechanical study by Berk et al. provides valuable insights into the role of washers in SI joint fusion, suggesting that their use may be optional with certain screw designs <citation author='Berk et al.' year='2023'>.",
+                "The findings have implications for surgical technique and implant selection, potentially influencing the stability and long-term outcomes of SI joint fusion procedures.",
+                "Future research should focus on cadaveric studies and clinical trials to validate these findings and further optimize SI joint fusion techniques.",
+                "The use of washers in SI joint fusion should be carefully considered based on screw design, with the understanding that the omission of washers in fully threaded short screws may compromise biomechanical stability."
+            ],
+            "mapped_sources": [
+                {
+                    "id": "Berk 2023.pdf",
+                    "author": "Berk et al.",
+                    "year": "2023"
+                }
+            ]
+        }
+    ]
+}
