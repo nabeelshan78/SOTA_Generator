@@ -1,12 +1,13 @@
 
-You are a Principal Research Architect. Your goal is to design a high-level "State of the Art" (SOTA) review paper based **STRICTLY** on the provided source documents and the required domain structure.
+You are a distinguished academic researcher writing a "State of the Art" (SOTA) Literature Review. Your task is to synthesize the provided source documents into a complete "State of the Art" (SOTA) Review Paper.
 
-**User Request:** Sota about surgery and return to sport. 
+### SOURCE MATERIAL (STRICT TRUTH)
+You have access to the following papers. You must ONLY cite these papers.
 
-**Source Documents (XML Format):**
-<source_document id='Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf' author='Need to find in source document - Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices.pdf' year='2022'>
-<page number='1'>
-Analysis of Complications in Sacroiliac Joint
+<paper id="Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices">
+    <metadata title="Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices" author="Rahl et al." year="2020" />
+    <full_text>
+    Analysis of Complications in Sacroiliac Joint
 Fusions Using FDA 510(k) Cleared Devices
 Michael D. Rahl, MD, Joseph Weistroffer, MD, and Bruce E. Dall, MD
 Study Design: This was a level III—retrospective cohort study.
@@ -110,8 +111,6 @@ Clin Spine Surg  Volume 35, Number 3, April 2022
 www.clinicalspinesurgery.com | E363
 Copyright r 2021 Wolters Kluwer Health, Inc. All rights reserved.
 
-</page>
-<page number='2'>
 The Hospital Inpatient National Statistics were
 searched through the Agency for Healthcare Research and
 Quality (AHRQ). Fusion of the SIJ by total discharges
@@ -229,8 +228,6 @@ E364 | www.clinicalspinesurgery.com
 Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
 Copyright r 2021 Wolters Kluwer Health, Inc. All rights reserved.
 
-</page>
-<page number='3'>
 Data for SIJ fusions through the Hospital Inpatient
 National Statistics (AHRQ) was only available for 2016
 and 2017. There were a total of 3220 and 3035 SIJ fusions,
@@ -462,8 +459,6 @@ Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
 www.clinicalspinesurgery.com | E365
 Copyright r 2021 Wolters Kluwer Health, Inc. All rights reserved.
 
-</page>
-<page number='4'>
 1165, respectively. Neither database provided information
 on the indication for surgery or the type of device used.
 DISCUSSION
@@ -586,8 +581,6 @@ E366 | www.clinicalspinesurgery.com
 Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
 Copyright r 2021 Wolters Kluwer Health, Inc. All rights reserved.
 
-</page>
-<page number='5'>
 experience, the number of complications and the need for
 reoperation should decrease. This lack of education
 and training is also reﬂected in the orthopedic and
@@ -721,12 +714,14 @@ Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
 www.clinicalspinesurgery.com | E367
 Copyright r 2021 Wolters Kluwer Health, Inc. All rights reserved.
 
-</page>
-</source_document>
 
-<source_document id='Berk 2023.pdf' author='Till Berk, Ivan Zderic, Peter Schwarzenberg, Torsten Pastor, Sascha Halvachizadeh, Geoff Richards, Boyko Gueorguiev and Hans-Christoph Pape' year='2023'>
-<page number='1'>
-Citation: Berk, T.; Zderic, I.;
+    </full_text>
+</paper>
+
+<paper id="Berk 2023">
+    <metadata title="Is a Washer a Mandatory Component in Young Trauma Patients with S1-S2 Iliosacral Screw Fixation of Posterior Pelvis Ring Injuries? A Biomechanical Study" author="Till Berk, Ivan Zderic, Peter Schwarzenberg, Torsten Pastor, Sascha Halvachizadeh, Geoff Richards, Boyko Gueorguiev and Hans-Christoph Pape" year="2023" />
+    <full_text>
+    Citation: Berk, T.; Zderic, I.;
 Schwarzenberg, P.; Pastor, T.;
 Halvachizadeh, S.; Richards, G.;
 Gueorguiev, B.; Pape, H.-C. Is a
@@ -816,8 +811,6 @@ to the L5 level or sacral nerve roots [8–11]. A complete IR might be indicated
 Medicina 2023, 59, 1379. https://doi.org/10.3390/medicina59081379
 https://www.mdpi.com/journal/medicina
 
-</page>
-<page number='2'>
 Medicina 2023, 59, 1379
 2 of 11
 with infection, allergic reactions, as well as unsettled pain or following an explicit patient
@@ -874,8 +867,6 @@ Group FT w/o: Fixation of the posterior pelvis ring with two 7.3 mm fully thread
 short cannulated self-tapping screws (lengths: 90 mm for S1 and 65 mm for S2)
 without washers.
 
-</page>
-<page number='3'>
 Medicina 2023, 59, 1379
 3 of 11
 Set 3:
@@ -913,8 +904,6 @@ The biomechanical testing procedure and equipment was described in a previous
 study [23]. The system was equipped with a 5 kN/50 Nm load cell, operating at less
 than 1% accuracy within 10–100% loading capacity [24,25]. The setup with a specimen
 
-</page>
-<page number='4'>
 Medicina 2023, 59, 1379
 4 of 11
 mounted for biomechanical testing is visualized in Figure 2. Each specimen was aligned
@@ -934,7 +923,7 @@ were attached to the sacrum, the iliac crest and both SI screws for optical moti
 Figure 2. Setup with a specimen mounted for biomechanical testing. Vertical arrow indicates
 loading direction.
 The loading protocol was adopted identically from a previous study [26].
-2.2. Data Acquisition & Analysis
+2.2. Data Acquisition &amp; Analysis
 Machine data in terms axial displacement and axial load were continuously obtained
 from the machine transducer and the load cell throughout testing, respectively. On this
 basis, construct stiffness was evaluated from the ascending load–displacement curve of the
@@ -942,8 +931,6 @@ initial quasi-static ramp.
 The three-dimensional coordinates of all optical markers were continuously recorded
 identically as described before [26]. Based on the motion tracking data, the following
 
-</page>
-<page number='5'>
 Medicina 2023, 59, 1379
 5 of 11
 parameters of interest were evaluated: (1) gap angle, deﬁned as the combined angular
@@ -1024,8 +1011,6 @@ p-value
 over cycles
 ≤0.038
 
-</page>
-<page number='6'>
 Medicina 2023, 59, 1379
 6 of 11
 Table 1. Cont.
@@ -1145,8 +1130,6 @@ w/o) and set 3 (TS w/versus TS w/o), p ≥0.359. Failure modes for all fixation 
 expressed by a fracture of the ilium between the polymethylmethacrylate ilium fixation and
 the S2 SI screw.
 
-</page>
-<page number='7'>
 Medicina 2023, 59, 1379
 7 of 11
 Figure 3. Cycles to failure (left abscissa) and corresponding load at failure (right abscissa), presented
@@ -1189,8 +1172,6 @@ threaded short screws on the other hand, it was demonstrated that although the i
 stiffness was comparable, the advantages of using a washer only become apparent during
 dynamic loading.
 
-</page>
-<page number='8'>
 Medicina 2023, 59, 1379
 8 of 11
 Washers are known as safeguards against screw intrusion as well as a technique
@@ -1222,7 +1203,7 @@ A biomechanical study investigating cement augmentation of SI screws concluded t
 bilateral bone implant anchorage was the signiﬁcantly more important factor concerning
 fracture displacement than the actual number of inserted screws [37]. It has further been
 stated that longer screws achieve higher stability than shorter screws [3].
-Strength & Limitations
+Strength &amp; Limitations
 The obvious limitation of this investigation is the chosen artiﬁcial bone model. This
 makes the simulation of ligament injuries of the pelvis, as well as screw intrusion, difﬁcult.
 Though, as this is an innovative study with a debatable approach, for which there is limited
@@ -1247,8 +1228,6 @@ head or washer penetration into the bone, it can be assumed that all screws were
 with a comparable strength. Finally, the witnessed failure modes, fracturing of the ilium in
 between the ilium fixation and S2 SI screw, seem to be far from clinically relevancy, especially
 
-</page>
-<page number='9'>
 Medicina 2023, 59, 1379
 9 of 11
 for young patients. Therefore, the bones used may not have been able to properly simulate
@@ -1318,8 +1297,6 @@ Richards, R.; Palmer, J.; Clarke, N. Observations on removal of metal implants. 
 Schmalzried, T.P.; Grogan, T.J.; Neumeier, P.A.; Dorey, F.J. Metal removal in a pediatric population: Benign procedure or necessary
 evil? J. Pediatr. Orthop. 1991, 11, 72–76. [CrossRef]
 
-</page>
-<page number='10'>
 Medicina 2023, 59, 1379
 10 of 11
 14.
@@ -1411,8 +1388,6 @@ Heiner, A.D. Structural properties of fourth-generation composite femurs and tib
 Zdero, R.; Olsen, M.; Bougherara, H.; Schemitsch, E. Cancellous bone screw purchase: A comparison of synthetic femurs, human
 femurs, and ﬁnite element analysis. Proc. Inst. Mech. Eng. Pt H J. Eng. Med. 2008, 222, 1175–1183. [CrossRef] [PubMed]
 
-</page>
-<page number='11'>
 Medicina 2023, 59, 1379
 11 of 11
 41.
@@ -1438,18 +1413,20 @@ Disclaimer/Publisher’s Note: The statements, opinions and data contained in al
 author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
 people or property resulting from any ideas, methods, instructions or products referred to in the content.
 
-</page>
-</source_document>
 
-<source_document id='Cher 2015.pdf' author='Cher' year='2015'>
-<page number='1'>
-Medical Devices: Evidence and Research
+    </full_text>
+</paper>
+
+<paper id="Cher 2015">
+    <metadata title="Implant survivorship analysis after minimally invasive sacroiliac joint fusion using the iFuse Impla" author="Cher" year="2015" />
+    <full_text>
+    Medical Devices: Evidence and Research
 ISSN: 1179-1470 (Online) Journal homepage: www.tandfonline.com/journals/dmde20
 Implant survivorship analysis after minimally
 invasive sacroiliac joint fusion using the iFuse
 Implant System®
-Daniel J Cher, W Carlton Reckling & Robyn A Capobianco
-To cite this article: Daniel J Cher, W Carlton Reckling & Robyn A Capobianco (2015) Implant
+Daniel J Cher, W Carlton Reckling &amp; Robyn A Capobianco
+To cite this article: Daniel J Cher, W Carlton Reckling &amp; Robyn A Capobianco (2015) Implant
 survivorship analysis after minimally invasive sacroiliac joint fusion using the iFuse Implant
 System®, Medical Devices: Evidence and Research, , 485-492, DOI: 10.2147/MDER.S94885
 To link to this article:  https://doi.org/10.2147/MDER.S94885
@@ -1463,11 +1440,9 @@ Article views: 210
 View related articles 
 View Crossmark data
 Citing articles: 3 View citing articles 
-Full Terms & Conditions of access and use can be found at
+Full Terms &amp; Conditions of access and use can be found at
 https://www.tandfonline.com/action/journalInformation?journalCode=dmde20
 
-</page>
-<page number='2'>
 © 2015 Cher et al. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution – Non Commercial (unported, v3.0) 
 License. The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/. Non-commercial uses of the work are permitted without any further 
 permission from Dove Medical Press Limited, provided the work is properly attributed. Permissions beyond the scope of the License are administered by Dove Medical Press Limited. Information on 
@@ -1537,8 +1512,6 @@ This article was published in the following Dove Press journal:
 Medical Devices: Evidence and Research
 23 November 2015
 
-</page>
-<page number='3'>
 Medical Devices: Evidence and Research 2015:8
 submit your manuscript | www.dovepress.com
 Dovepress 
@@ -1644,8 +1617,6 @@ patients undergoing this procedure (55.8), expected overall
 survival is high and lack of vital status information is not 
 expected to meaningfully affect calculated rates. Analysis 
 
-</page>
-<page number='4'>
 Medical Devices: Evidence and Research 2015:8
 submit your manuscript | www.dovepress.com
 Dovepress 
@@ -1750,8 +1721,6 @@ of revision due to SM was 1.0%; the 4-year probability of
 revision due to SR was 1.94%. Revision rates for both con­
 ditions improved over time (P,0.0001 for SM, P=0.0118 
 
-</page>
-<page number='5'>
 Medical Devices: Evidence and Research 2015:8
 submit your manuscript | www.dovepress.com
 Dovepress 
@@ -1940,8 +1909,6 @@ A review of the published literature on the iFuse Implant
 System showed a revision rate ranging from 0.7% to 9.1% over 
 a period of 6 to 40 months.11,12,21,22 In an ongoing prospective 
 
-</page>
-<page number='6'>
 Medical Devices: Evidence and Research 2015:8
 submit your manuscript | www.dovepress.com
 Dovepress 
@@ -2015,8 +1982,6 @@ prospective trials. The observed rate fell within the values
 reported in the published literature (which constitutes a sub­
 sample of the entire cohort we report herein).11,13–15,21,23
 
-</page>
-<page number='7'>
 Medical Devices: Evidence and Research 2015:8
 submit your manuscript | www.dovepress.com
 Dovepress 
@@ -2120,8 +2085,6 @@ with relatively high fidelity.
 Our investigation has several limitations. Patient charac­
 teristics, other than age and sex, were unavailable, limiting 
 
-</page>
-<page number='8'>
 Medical Devices: Evidence and Research 2015:8
 submit your manuscript | www.dovepress.com
 Dovepress 
@@ -2205,7 +2168,7 @@ nal placement of mesh: the aftermath. Curr Urol Rep. 2014;15:380.
 	 7.	 Stephenson J. FDA warns against procedure used in removing fibroids. 
 JAMA. 2014;311:1956.
 	 8.	 Brown SL, Bright RA, Tavris DR. Medical Device Epidemiology and 
-Surveillance. Chichester: John Wiley & Sons; 2007.
+Surveillance. Chichester: John Wiley &amp; Sons; 2007.
 	 9.	 Buchowski JM, Kebaish KM, Sinkov V, Cohen DB, Sieber AN, 
 Kostuik JP. Functional and radiographic outcome of sacroiliac arthrod­
 esis for the disorders of the sacroiliac joint. Spine J. 2005;5:520–528.
@@ -2237,8 +2200,6 @@ implants vs nonsurgical management for sacroiliac joint dysfunction:
 decompression – the surgical learning curve. Spine J. Epub 2015 
 Aug 11.
 
-</page>
-<page number='9'>
 Medical Devices: Evidence and Research
 Publish your work in this journal
 Submit your manuscript here: http://www.dovepress.com/medical-devices-evidence-and-research-journal
@@ -2315,256 +2276,106 @@ fusion (MIS TLIF). J Spinal Disord Tech. 2014;27:E234–E240.
 curve of minimally invasive spine surgery: a systematic review. Clin 
 Orthop. 2014;472:1711–1717.
 
-</page>
-</source_document>
+
+    </full_text>
+</paper>
 
 
+### THE PLAN
+You must execute the following writing plan and follow this exact structure.
 
-**INSTRUCTIONS:**
-1. **Analyze the Context:** Determine if the topic is **Medical/Scientific** or **Political/Strategic**.
-2. **Select the Template:**
-   - If Medical/Scientific, you MUST use the structure defined in **TEMPLATE A**.
-   - If Political/Strategic, you MUST use the structure defined in **TEMPLATE B**.
-3. **Map Sources:** - Use <citation author='' year=''> and other tags as well to place inline citations, also assign specific source files (`id`) to each section where they are relevant.
+## SECTION: 1. INTRODUCTION
+   - Goal: Define the clinical problem, knowledge gaps, and review scope related to SI joint dysfunction and its surgical management.
+   - Key Points to cover: Paragraph 1: Sacroiliac joint (SIJ) disorders are a well-known medical condition with both surgical and nonsurgical treatment options, impacting patient quality of life.; Paragraph 2: There is a need for postmarket surveillance to maintain a reasonable assurance of safety for all medical devices used in SIJ fusion, as well as a need to address the lack of formal training.; Paragraph 3: This review focuses on surgical revision rates after sacroiliac joint fusion surgery, specifically using the iFuse Implant System, and includes an analysis of complications associated with SIJ fusions using FDA-cleared devices.; Paragraph 4: The review is organized to present background information, clinical presentation, a core device analysis of SI joint fusion, comparative analysis, evidence synthesis, and a conclusion.
+   - REQUIRED CITATIONS for this part: Cher 2015 (Cher et al., 2015), Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
 
-**TEMPLATE A (MEDICAL/SCIENTIFIC):**
+## SECTION: 2. BACKGROUND & CLINICAL CONTEXT
+   - Sub-topic: 2.1 Anatomy & Physiology
+   - Goal: Describe the key anatomical structures and biomechanical role of the sacroiliac joint.
+   - Key Points to cover: Paragraph 1: The SIJs are mobile in all 3 anatomic planes.; Paragraph 2: The SIJs have been shown to have intra-articular pain generators along with closely associated extra-articular pain generators.; Paragraph 3: Understanding the anatomy and biomechanics of the SI joint is crucial for proper device placement and surgical outcomes.
+   - REQUIRED CITATIONS for this part: Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
+   - Sub-topic: 2.2 Pathophysiology
+   - Goal: Explain the mechanisms of degeneration/dysfunction in the SI joint and their implications for treatment.
+   - Key Points to cover: Paragraph 1: Low back pain originating from the sacroiliac joint (SIJ) is thought to range anywhere from 2% to 30%.; Paragraph 2: When conservative treatment for SIJ pain fails, arthrodesis becomes a viable option to reduce or eliminate pain from this joint.; Paragraph 3: The choice between surgical and non-surgical treatments depends on the severity of symptoms and the underlying pathology.
+   - REQUIRED CITATIONS for this part: Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
+   - Sub-topic: 2.3 Epidemiology
+   - Goal: Outline the prevalence, risk factors, and socio-economic impact of SI joint dysfunction.
+   - Key Points to cover: Paragraph 1: The number of yearly SIJ fusions is on an upward trend.; Paragraph 2: The prevalence of SIJ dysfunction varies, affecting a significant portion of the population with low back pain.; Paragraph 3: The increasing number of SIJ fusions suggests a growing burden on healthcare systems.
+   - REQUIRED CITATIONS for this part: Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
 
-H1 — INTRODUCTION
-Paragraphs: 3–4
-Paragraph 1 — Clinical & Scientific Context: Explain the broader clinical problem and why it matters (burden, quality of life, unmet need).
-Paragraph 2 — Why This SOTA Is Needed: Explain gaps in current knowledge, limitations of existing evidence, regulatory expectations.
-Paragraph 3 — Scope of the Review: Define exactly what will be analyzed. State inclusion/exclusion logic.
-Paragraph 4 — Structure of the Document: Explain how the SOTA is organized.
+## SECTION: 3. CLINICAL PRESENTATION & DIAGNOSIS
+   - Sub-topic: 3.1 Symptoms & Functional Impact
+   - Goal: Describe the core symptoms, functional limitations, and impact on quality of life associated with SI joint dysfunction.
+   - Key Points to cover: Paragraph 1: The most common symptom reported by patients was radicular pain (38%). This was followed by unspecified pain (25.7%) and SIJ pain (17.2%).; Paragraph 2: Functional limitations include difficulties with activities of daily living and reduced mobility.; Paragraph 3: Chronic pain and functional limitations significantly impact the patient's quality of life.
+   - REQUIRED CITATIONS for this part: Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
+   - Sub-topic: 3.2 Diagnostic Criteria & Imaging
+   - Goal: Outline the diagnostic criteria, imaging modalities, and differential diagnosis considerations for SI joint dysfunction.
+   - Key Points to cover: Paragraph 1: Clinical tests and maneuvers are used to assess SI joint pain.; Paragraph 2: Imaging modalities such as X-ray are used to assess SI joint malalignment.; Paragraph 3: Differential diagnosis includes other causes of low back pain, such as lumbar disc herniation.
+   - REQUIRED CITATIONS for this part: Berk 2023 (Till Berk et al., 2023)
+   - Sub-topic: 3.3 Current Treatment Landscape
+   - Goal: Summarize the non-surgical management options, surgical indications, and overview of surgical approaches for SI joint dysfunction.
+   - Key Points to cover: Paragraph 1: Non-surgical management includes physical therapy, pain medications, and injections.; Paragraph 2: Surgical indications include failure of conservative treatment and significant functional limitations.; Paragraph 3: Surgical approaches include minimally invasive SI joint fusion.
+   - REQUIRED CITATIONS for this part: Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
 
-H2 — BACKGROUND & CLINICAL CONTEXT
-Abstract: Provide a brief, evidence-based abstract summarizing the clinical background. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — Anatomy & Physiology
-Paragraph 1: Key anatomical structures
-Paragraph 2: Biomechanical role and functional relevance
-Paragraph 3: Relevance to device design or pathology
-H3 — Pathophysiology
-Paragraph 1: Mechanisms of degeneration/dysfunction
-Paragraph 2: How pathology leads to symptoms
-Paragraph 3: Implications for surgical vs non-surgical treatments
-H3 — Epidemiology
-Paragraph 1: Prevalence/incidence
-Paragraph 2: Risk factors, demographic patterns
-Paragraph 3: Burden on healthcare, socio-economic impact
+## SECTION: 4. CORE DEVICE ANALYSIS: SI JOINT FUSION
+   - Sub-topic: 4.1 iFuse Implant System Overview
+   - Goal: Describe the intended purpose, core design features, and regulatory status of the iFuse Implant System.
+   - Key Points to cover: Paragraph 1: The iFuse Implant System is intended for sacroiliac fusion for conditions including sacroiliac joint dysfunction that is a direct result of sacroiliac joint disruption and degenerative sacroiliitis.; Paragraph 2: The iFuse Implant System includes a delivery system to place a series of triangular titanium implants coated with a porous titanium plasma spray across the SI joint using a lateral, transarticular approach under fluoroscopic guidance.; Paragraph 3: The iFuse Implant System has received FDA clearance for commercialization.
+   - REQUIRED CITATIONS for this part: Cher 2015 (Cher et al., 2015)
+   - Sub-topic: 4.2 Mechanism of Action
+   - Goal: Explain how the iFuse Implant System achieves fixation/fusion, the biomechanical principles involved, and the implications for clinical outcomes.
+   - Key Points to cover: Paragraph 1: Placement of the implants does not require full decortication of the joint, as is done in other joint fusion procedures.; Paragraph 2: The implant’s shape allows for immediate stabilization of the joint and the titanium plasma spray coating allows for biologic fixation in bone.; Paragraph 3: The design aims to provide long-term stability and pain relief.
+   - REQUIRED CITATIONS for this part: Cher 2015 (Cher et al., 2015)
+   - Sub-topic: 4.3 Evidence Summary for iFuse
+   - Goal: Summarize the available literature on the iFuse Implant System, focusing on key outcomes, safety, and complications.
+   - Key Points to cover: Paragraph 1: Published literature reports the use of the iFuse Implant System.; Paragraph 2: Key outcomes include fusion, pain reduction, and improved function.; Paragraph 3: Complications include symptomatic malposition and symptom recurrence.; Paragraph 4: Evidence is derived from both prospective trials and retrospective studies.
+   - REQUIRED CITATIONS for this part: Cher 2015 (Cher et al., 2015)
 
-H2 — CLINICAL PRESENTATION & DIAGNOSIS
-Abstract: Provide a brief, evidence-based abstract summarizing presentation and diagnosis. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — Symptoms & Functional Impact
-Paragraph 1: Core symptoms
-Paragraph 2: Functional limitations
-Paragraph 3: Impact on quality of life
-H3 — Diagnostic Criteria & Imaging
-Paragraph 1: Clinical tests & maneuvers
-Paragraph 2: Imaging modalities (CT, MRI, X-ray)
-Paragraph 3: Differential diagnosis, diagnostic accuracy concerns
-H3 — Current Treatment Landscape
-Paragraph 1: Non-surgical management
-Paragraph 2: Surgical indications & decision points
-Paragraph 3: Overview of surgical approaches
+## SECTION: 5. COMPARATIVE ANALYSIS
+   - Sub-topic: 5.1 Comparison of Devices (Rationale, Outcomes, Technical)
+   - Goal: Compare different SI joint fusion devices based on clinical rationale, outcomes, and technical differences.
+   - Key Points to cover: Paragraph 1: Clinical Rationale Comparison: Different devices may be indicated for specific patient profiles or surgical rationales.; Paragraph 2: Clinical & Safety Outcomes Comparison: Fusion rates, pain reduction, complications, and revision rates vary among devices.; Paragraph 3: Technical Differences + Transition: Biomechanical principles, procedural steps, and radiological differences distinguish various devices.
+   - REQUIRED CITATIONS for this part: Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020), Berk 2023 (Till Berk et al., 2023)
 
-H1 — [DYNAMIC: REPLACE WITH SPECIFIC DOMAIN TITLE] (e.g. CORE DEVICE ANALYSIS: SI JOINT FUSION)
-H2 — [DYNAMIC: REPLACE WITH SPECIFIC TECHNOLOGY/DEVICE GROUP]
-Abstract: Provide a brief, evidence-based abstract summarizing the device group. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — [DYNAMIC: Specific Device Name] Overview (for each device found in plan)
-Paragraph 1: Intended purpose
-Paragraph 2: Core design features
-Paragraph 3: Regulatory status or unique characteristics
-H3 — Mechanism of Action
-Paragraph 1: How the device achieves fixation/fusion
-Paragraph 2: Biomechanical principles
-Paragraph 3: Implications for clinical outcomes
-H3 — Evidence Summary for Each Device
-Paragraph 1: Overview of available literature
-Paragraph 2: Key outcomes: fusion, pain, function
-Paragraph 3: Safety and complications
-Paragraph 4: Evidence strengths/weaknesses
+## SECTION: 6. EVIDENCE SYNTHESIS & GAPS
+   - Sub-topic: 6.1 Summary of Key Findings
+   - Goal: Summarize the major clinical insights, patterns in safety/effectiveness, and design-related implications from the reviewed evidence.
+   - Key Points to cover: Paragraph 1: Major clinical insights include the effectiveness of minimally invasive SI joint fusion in reducing pain and improving function.; Paragraph 2: Patterns in safety/effectiveness show a decrease in revision rates over time, potentially due to improved surgeon experience.; Paragraph 3: Design-related implications suggest that implant placement and technique are critical for successful outcomes.
+   - REQUIRED CITATIONS for this part: Cher 2015 (Cher et al., 2015)
+   - Sub-topic: 6.2 Evidence Gaps & Limitations
+   - Goal: Identify methodological weaknesses in the literature, missing populations or endpoints, and the impact of these gaps on interpretation.
+   - Key Points to cover: Paragraph 1: Methodological weaknesses in the literature include retrospective study designs and limited long-term follow-up.; Paragraph 2: Missing populations or endpoints include specific patient subgroups and long-term fusion rates.; Paragraph 3: These gaps limit the ability to draw definitive conclusions about the long-term effectiveness and safety of SI joint fusion.
+   - REQUIRED CITATIONS for this part: Cher 2015 (Cher et al., 2015)
+   - Sub-topic: 6.3 Unmet Clinical Needs
+   - Goal: Highlight the lack of long-term data, gaps in patient selection evidence, and rationale for innovation or new studies in SI joint fusion.
+   - Key Points to cover: Paragraph 1: Lack of long-term data on fusion rates and clinical outcomes remains an unmet need.; Paragraph 2: Gaps in patient selection evidence make it difficult to determine which patients are most likely to benefit from SI joint fusion.; Paragraph 3: There is a rationale for innovation in implant design and surgical techniques to improve outcomes and reduce complications.
+   - REQUIRED CITATIONS for this part: Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
 
-H2 — COMPARATIVE ANALYSIS (Must strictly follow 3-paragraph rule)
-Abstract: Provide a brief, evidence-based abstract summarizing the comparison. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — Comparison of Devices (Rationale, Outcomes, Technical)
-Paragraph 1: Clinical Rationale Comparison (Intended use, patient profiles, surgical rationale)
-Paragraph 2: Clinical & Safety Outcomes Comparison (Fusion rates, pain, complications, revision rates)
-Paragraph 3: Technical Differences + Transition (Biomechanics, procedural steps, radiological differences)
-
-H2 — EVIDENCE SYNTHESIS & GAPS
-Abstract: Provide a brief, evidence-based abstract summarizing the synthesis. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — Summary of Key Findings
-Paragraph 1: Major clinical insights
-Paragraph 2: Patterns in safety/effectiveness
-Paragraph 3: Design-related implications
-H3 — Evidence Gaps & Limitations
-Paragraph 1: Methodological weaknesses in literature
-Paragraph 2: Missing populations or endpoints
-Paragraph 3: Impact of these gaps on interpretation
-H3 — Unmet Clinical Needs
-Paragraph 1: Lack of long-term data
-Paragraph 2: Gaps in patient selection evidence
-Paragraph 3: Rationale for innovation or new studies
-
-H1 — CONCLUSION
-Paragraph 1: Global Synthesis
-Paragraph 2: Clinical Implications
-Paragraph 3: Future Directions
-Paragraph 4: Final Statement
+## SECTION: 7. CONCLUSION
+   - Goal: Provide a global synthesis of the findings, clinical implications, future directions, and a final statement on SI joint fusion.
+   - Key Points to cover: Paragraph 1: Minimally invasive SI joint fusion is a promising treatment option for SI joint dysfunction, but further research is needed.; Paragraph 2: Clinical implications include improved pain relief and function for appropriately selected patients.; Paragraph 3: Future directions include long-term studies, comparative effectiveness research, and innovation in implant design.; Paragraph 4: SI joint fusion offers a valuable surgical option, but careful patient selection and technique are essential for optimal outcomes.
+   - REQUIRED CITATIONS for this part: Cher 2015 (Cher et al., 2015), Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices (Rahl et al., 2020)
 
 
-**TEMPLATE B (POLITICAL/STRATEGIC):**
+### CORE DIRECTIVES (STRICT)
+1. **SOURCE OF TRUTH:**
+   - You are provided with text inside `<paper id>` XML blocks. This is your ONLY knowledge base.
+   - You must scan **ALL** provided source documents to find relevant evidence and citations.
 
-H1 — INTRODUCTION
-Paragraphs: 3–4
-Paragraph 1 — Historical & Geopolitical Context: Explain the broader political issue, historical background, and significance.
-Paragraph 2 — Why This Analysis Is Needed: Explain gaps in current understanding, policy relevance, or recent escalations.
-Paragraph 3 — Scope of the Review: Define the specific conflict, treaty, region, or policy area being analyzed.
-Paragraph 4 — Structure of the Document: Explain how the analysis is organized.
+2. **CITATION PROTOCOL (CRITICAL):**
+   - **Every** substantive claim, data point, or specific idea MUST be cited immediately.
+   - "Style of Citation (Follow Strictly):** Use `(Author, Year)` or `(Author et al., Year)` style."
 
-H2 — GEOPOLITICAL LANDSCAPE & KEY ACTORS
-Abstract: Provide a brief, evidence-based abstract summarizing the landscape. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — State Actors
-Paragraph 1: Primary nations involved and their interests
-Paragraph 2: Alliances and historical relationships
-Paragraph 3: Domestic political drivers influencing foreign policy
-H3 — Non-State Actors & International Organizations
-Paragraph 1: Role of IOs (UN, EU, NATO, etc.)
-Paragraph 2: Influence of NGOs, corporations, or insurgent groups
-Paragraph 3: Impact on regional stability
-H3 — Strategic Drivers
-Paragraph 1: Economic interests (resources, trade routes)
-Paragraph 2: Security concerns and military posture
-Paragraph 3: Ideological or cultural factors
+3. **SYNTHESIS (The Anti-Listicle Rule):**
+   - Do NOT write: "Paper A says X. Paper B says Y."
+   - DO write: "While recent studies suggest X (Author, 2023), others argue Y (FDA, 2021), indicating a shift in consensus..."
 
-H2 — CORE CONFLICT OR POLICY ISSUE
-Abstract: Provide a brief, evidence-based abstract summarizing the core issue. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — Origins & Evolution
-Paragraph 1: Root causes of the issue
-Paragraph 2: Key turning points or escalations
-Paragraph 3: Current status quo
-H3 — Policy Frameworks & Legal Context
-Paragraph 1: Relevant treaties, resolutions, or international law
-Paragraph 2: Compliance and enforcement challenges
-Paragraph 3: Gaps in the legal framework
-H3 — Stakeholder Positions
-Paragraph 1: Competing narratives and claims
-Paragraph 2: Diplomatic stances and red lines
-Paragraph 3: Public opinion and soft power dynamics
+**EXECUTION INSTRUCTIONS:**
+1. **Analysis:** Scan the first initial pages of each source document specifically to identify the Author or Organization before writing.
+2. **No Hallucinations:** If a paper is not in the source list, do not cite it.
+3. **Academic Tone:** Use objective, high-level synthesis (e.g., "While Smith (2023) argues X, Jones (2021) suggests Y...").
+4. **Tone:** High-density, objective, technical, and precise.
+5. **Output Format:** Clean Markdown. Start directly with the Title (`# Title`). Use `##` for main sections and `###` for subsections.
 
-H1 — [DYNAMIC: REPLACE WITH SPECIFIC ANALYSIS TITLE] (e.g. ANALYSIS OF SOUTH CHINA SEA TENSIONS)
-H2 — [DYNAMIC: REPLACE WITH SPECIFIC FOCUS AREA]
-Abstract: Provide a brief, evidence-based abstract summarizing the focus area. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — [DYNAMIC: Specific Event/Policy] Overview
-Paragraph 1: Description of the event or policy
-Paragraph 2: Immediate impact and reactions
-Paragraph 3: Strategic implications
-H3 — Power Dynamics & Leverage
-Paragraph 1: Military or economic leverage used
-Paragraph 2: Diplomatic maneuvering
-Paragraph 3: Outcomes and effectiveness
-H3 — Evidence Summary
-Paragraph 1: Overview of available reports and intelligence
-Paragraph 2: Key data points (economic impact, casualties, polling)
-Paragraph 3: Credibility and bias of sources
-Paragraph 4: Consensus vs. contention in the evidence
-
-H2 — COMPARATIVE ANALYSIS (Policy Options or Scenarios)
-Abstract: Provide a brief, evidence-based abstract summarizing the comparison. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — Comparison of Scenarios/Approaches
-Paragraph 1: Rationale Comparison (Drivers for different policy options)
-Paragraph 2: Outcome Comparison (Projected stability, economic cost, political fallout)
-Paragraph 3: Feasibility & Risk Assessment
-
-H2 — STRATEGIC SYNTHESIS & GAPS
-Abstract: Provide a brief, evidence-based abstract summarizing the synthesis. MUST INCLUDE CITATIONS [n].
-Key Insights: Provide a bulleted list of evidence-based key insights. MUST INCLUDE CITATIONS [n].
-H3 — Key Strategic Insights
-Paragraph 1: Major geopolitical trends identified
-Paragraph 2: Effectiveness of current policies
-Paragraph 3: Shifts in the balance of power
-H3 — Intelligence & Information Gaps
-Paragraph 1: Limitations in open-source intelligence (OSINT)
-Paragraph 2: Areas of high uncertainty or conflicting data
-Paragraph 3: Impact of these gaps on predictive accuracy
-H3 — Unmet Policy Needs
-Paragraph 1: Failures of existing mechanisms
-Paragraph 2: Needs for new diplomatic or security frameworks
-Paragraph 3: Rationale for strategic pivots
-
-H1 — CONCLUSION
-Paragraph 1: Global Synthesis
-Paragraph 2: Policy Implications
-Paragraph 3: Future Scenarios & Watchlist
-Paragraph 4: Final Strategic Assessment
-
-
-**CRITICAL CONSTRAINTS:**
-- Return ONLY valid JSON.
-- `mapped_files` must be a list of objects with the following structure:
-  {
-    "id": "<exact source_document id>",
-    "author": "<Author Last Name et al.>",
-    "year": "<Publication Year>"
-  }
-- Do NOT invent sources or metadata. Use only the information available in the provided `<source_document>` blocks.
-- Do not add conversational text outside the JSON.
-- The `sections` list in your JSON must exactly match the Headers (H1, H2) and Sub-headers (H3) of the selected template.
-
-**JSON SCHEMA:**
-{
-  "title": "A precise, academic title for the SOTA",
-  "template_used": "MEDICAL" or "POLITICAL",
-  "sections": [
-    {
-      "section_title": "1. Introduction",
-      "key_points": [
-        "Paragraph 1: [Context details based on files...]",
-        "Paragraph 2: [Gap analysis based on files...]",
-        "Paragraph 3: [Scope details...]",
-        "Paragraph 4: [Structure details...]"
-      ],
-      "mapped_sources": [
-        {
-          "id": "doc_id_1",
-          "author": "Smith et al.",
-          "year": "2023"
-        },
-        {
-          "id": "doc_id_2",
-          "author": "Jones & Lee",
-          "year": "2021"
-        }
-      ]
-    },
-    {
-      "section_title": "2. Background & Context",
-      "key_points": [
-        "Abstract: [Summary...]",
-        "Key Insights: [List...]",
-        "H3 - [Specific Subheader from Template]: [Details...]"
-      ],
-      "mapped_sources": [
-        {
-          "id": "doc_id_1",
-          "author": "Smith et al.",
-          "year": "2023"
-        },
-        {
-          "id": "doc_id_2",
-          "author": "Jones & Lee",
-          "year": "2021"
-        }
-      ]
-    }
-    // Continue for ALL sections...
-  ]
-}
+### OUTPUT FORMAT
+Return the full review in valid Markdown.

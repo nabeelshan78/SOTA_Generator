@@ -2,3 +2,4 @@ google-genai
 pymupdf
 python-dotenv
 rich
+json_repair

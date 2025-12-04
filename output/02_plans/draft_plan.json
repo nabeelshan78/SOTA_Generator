@@ -1,0 +1,307 @@
+{
+  "title": "State of the Art Review: Surgical Management of Sacroiliac Joint Dysfunction",
+  "template_used": "MEDICAL",
+  "abstract_concept": "This review examines the current state of surgical interventions for sacroiliac joint dysfunction, focusing on minimally invasive techniques and implant analysis.",
+  "sections": [
+    {
+      "section_id": 1,
+      "heading": "1. INTRODUCTION",
+      "subsections": [
+        {
+          "sub_heading": null,
+          "content_goal": "Define the clinical problem, knowledge gaps, and review scope related to SI joint dysfunction and its surgical management.",
+          "key_points": [
+            "Paragraph 1: Sacroiliac joint (SIJ) disorders are a well-known medical condition with both surgical and nonsurgical treatment options, impacting patient quality of life.",
+            "Paragraph 2: There is a need for postmarket surveillance to maintain a reasonable assurance of safety for all medical devices used in SIJ fusion, as well as a need to address the lack of formal training.",
+            "Paragraph 3: This review focuses on surgical revision rates after sacroiliac joint fusion surgery, specifically using the iFuse Implant System, and includes an analysis of complications associated with SIJ fusions using FDA-cleared devices.",
+            "Paragraph 4: The review is organized to present background information, clinical presentation, a core device analysis of SI joint fusion, comparative analysis, evidence synthesis, and a conclusion."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Cher 2015",
+              "author": "Cher et al.",
+              "year": "2015"
+            },
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "heading": "2. BACKGROUND & CLINICAL CONTEXT",
+      "subsections": [
+        {
+          "sub_heading": "2.1 Anatomy & Physiology",
+          "content_goal": "Describe the key anatomical structures and biomechanical role of the sacroiliac joint.",
+          "key_points": [
+            "Paragraph 1: The SIJs are mobile in all 3 anatomic planes.",
+            "Paragraph 2: The SIJs have been shown to have intra-articular pain generators along with closely associated extra-articular pain generators.",
+            "Paragraph 3: Understanding the anatomy and biomechanics of the SI joint is crucial for proper device placement and surgical outcomes."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        },
+        {
+          "sub_heading": "2.2 Pathophysiology",
+          "content_goal": "Explain the mechanisms of degeneration/dysfunction in the SI joint and their implications for treatment.",
+          "key_points": [
+            "Paragraph 1: Low back pain originating from the sacroiliac joint (SIJ) is thought to range anywhere from 2% to 30%.",
+            "Paragraph 2: When conservative treatment for SIJ pain fails, arthrodesis becomes a viable option to reduce or eliminate pain from this joint.",
+            "Paragraph 3: The choice between surgical and non-surgical treatments depends on the severity of symptoms and the underlying pathology."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        },
+        {
+          "sub_heading": "2.3 Epidemiology",
+          "content_goal": "Outline the prevalence, risk factors, and socio-economic impact of SI joint dysfunction.",
+          "key_points": [
+            "Paragraph 1: The number of yearly SIJ fusions is on an upward trend.",
+            "Paragraph 2: The prevalence of SIJ dysfunction varies, affecting a significant portion of the population with low back pain.",
+            "Paragraph 3: The increasing number of SIJ fusions suggests a growing burden on healthcare systems."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "heading": "3. CLINICAL PRESENTATION & DIAGNOSIS",
+      "subsections": [
+        {
+          "sub_heading": "3.1 Symptoms & Functional Impact",
+          "content_goal": "Describe the core symptoms, functional limitations, and impact on quality of life associated with SI joint dysfunction.",
+          "key_points": [
+            "Paragraph 1: The most common symptom reported by patients was radicular pain (38%). This was followed by unspecified pain (25.7%) and SIJ pain (17.2%).",
+            "Paragraph 2: Functional limitations include difficulties with activities of daily living and reduced mobility.",
+            "Paragraph 3: Chronic pain and functional limitations significantly impact the patient's quality of life."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        },
+        {
+          "sub_heading": "3.2 Diagnostic Criteria & Imaging",
+          "content_goal": "Outline the diagnostic criteria, imaging modalities, and differential diagnosis considerations for SI joint dysfunction.",
+          "key_points": [
+            "Paragraph 1: Clinical tests and maneuvers are used to assess SI joint pain.",
+            "Paragraph 2: Imaging modalities such as X-ray are used to assess SI joint malalignment.",
+            "Paragraph 3: Differential diagnosis includes other causes of low back pain, such as lumbar disc herniation."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Berk 2023",
+              "author": "Till Berk et al.",
+              "year": "2023"
+            }
+          ]
+        },
+        {
+          "sub_heading": "3.3 Current Treatment Landscape",
+          "content_goal": "Summarize the non-surgical management options, surgical indications, and overview of surgical approaches for SI joint dysfunction.",
+          "key_points": [
+            "Paragraph 1: Non-surgical management includes physical therapy, pain medications, and injections.",
+            "Paragraph 2: Surgical indications include failure of conservative treatment and significant functional limitations.",
+            "Paragraph 3: Surgical approaches include minimally invasive SI joint fusion."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "heading": "4. CORE DEVICE ANALYSIS: SI JOINT FUSION",
+      "subsections": [
+        {
+          "sub_heading": "4.1 iFuse Implant System Overview",
+          "content_goal": "Describe the intended purpose, core design features, and regulatory status of the iFuse Implant System.",
+          "key_points": [
+            "Paragraph 1: The iFuse Implant System is intended for sacroiliac fusion for conditions including sacroiliac joint dysfunction that is a direct result of sacroiliac joint disruption and degenerative sacroiliitis.",
+            "Paragraph 2: The iFuse Implant System includes a delivery system to place a series of triangular titanium implants coated with a porous titanium plasma spray across the SI joint using a lateral, transarticular approach under fluoroscopic guidance.",
+            "Paragraph 3: The iFuse Implant System has received FDA clearance for commercialization."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Cher 2015",
+              "author": "Cher et al.",
+              "year": "2015"
+            }
+          ]
+        },
+        {
+          "sub_heading": "4.2 Mechanism of Action",
+          "content_goal": "Explain how the iFuse Implant System achieves fixation/fusion, the biomechanical principles involved, and the implications for clinical outcomes.",
+          "key_points": [
+            "Paragraph 1: Placement of the implants does not require full decortication of the joint, as is done in other joint fusion procedures.",
+            "Paragraph 2: The implant\u2019s shape allows for immediate stabilization of the joint and the titanium plasma spray coating allows for biologic fixation in bone.",
+            "Paragraph 3: The design aims to provide long-term stability and pain relief."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Cher 2015",
+              "author": "Cher et al.",
+              "year": "2015"
+            }
+          ]
+        },
+        {
+          "sub_heading": "4.3 Evidence Summary for iFuse",
+          "content_goal": "Summarize the available literature on the iFuse Implant System, focusing on key outcomes, safety, and complications.",
+          "key_points": [
+            "Paragraph 1: Published literature reports the use of the iFuse Implant System.",
+            "Paragraph 2: Key outcomes include fusion, pain reduction, and improved function.",
+            "Paragraph 3: Complications include symptomatic malposition and symptom recurrence.",
+            "Paragraph 4: Evidence is derived from both prospective trials and retrospective studies."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Cher 2015",
+              "author": "Cher et al.",
+              "year": "2015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "heading": "5. COMPARATIVE ANALYSIS",
+      "subsections": [
+        {
+          "sub_heading": "5.1 Comparison of Devices (Rationale, Outcomes, Technical)",
+          "content_goal": "Compare different SI joint fusion devices based on clinical rationale, outcomes, and technical differences.",
+          "key_points": [
+            "Paragraph 1: Clinical Rationale Comparison: Different devices may be indicated for specific patient profiles or surgical rationales.",
+            "Paragraph 2: Clinical & Safety Outcomes Comparison: Fusion rates, pain reduction, complications, and revision rates vary among devices.",
+            "Paragraph 3: Technical Differences + Transition: Biomechanical principles, procedural steps, and radiological differences distinguish various devices."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            },
+            {
+              "id": "Berk 2023",
+              "author": "Till Berk et al.",
+              "year": "2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": 6,
+      "heading": "6. EVIDENCE SYNTHESIS & GAPS",
+      "subsections": [
+        {
+          "sub_heading": "6.1 Summary of Key Findings",
+          "content_goal": "Summarize the major clinical insights, patterns in safety/effectiveness, and design-related implications from the reviewed evidence.",
+          "key_points": [
+            "Paragraph 1: Major clinical insights include the effectiveness of minimally invasive SI joint fusion in reducing pain and improving function.",
+            "Paragraph 2: Patterns in safety/effectiveness show a decrease in revision rates over time, potentially due to improved surgeon experience.",
+            "Paragraph 3: Design-related implications suggest that implant placement and technique are critical for successful outcomes."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Cher 2015",
+              "author": "Cher et al.",
+              "year": "2015"
+            }
+          ]
+        },
+        {
+          "sub_heading": "6.2 Evidence Gaps & Limitations",
+          "content_goal": "Identify methodological weaknesses in the literature, missing populations or endpoints, and the impact of these gaps on interpretation.",
+          "key_points": [
+            "Paragraph 1: Methodological weaknesses in the literature include retrospective study designs and limited long-term follow-up.",
+            "Paragraph 2: Missing populations or endpoints include specific patient subgroups and long-term fusion rates.",
+            "Paragraph 3: These gaps limit the ability to draw definitive conclusions about the long-term effectiveness and safety of SI joint fusion."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Cher 2015",
+              "author": "Cher et al.",
+              "year": "2015"
+            }
+          ]
+        },
+        {
+          "sub_heading": "6.3 Unmet Clinical Needs",
+          "content_goal": "Highlight the lack of long-term data, gaps in patient selection evidence, and rationale for innovation or new studies in SI joint fusion.",
+          "key_points": [
+            "Paragraph 1: Lack of long-term data on fusion rates and clinical outcomes remains an unmet need.",
+            "Paragraph 2: Gaps in patient selection evidence make it difficult to determine which patients are most likely to benefit from SI joint fusion.",
+            "Paragraph 3: There is a rationale for innovation in implant design and surgical techniques to improve outcomes and reduce complications."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": 7,
+      "heading": "7. CONCLUSION",
+      "subsections": [
+        {
+          "sub_heading": null,
+          "content_goal": "Provide a global synthesis of the findings, clinical implications, future directions, and a final statement on SI joint fusion.",
+          "key_points": [
+            "Paragraph 1: Minimally invasive SI joint fusion is a promising treatment option for SI joint dysfunction, but further research is needed.",
+            "Paragraph 2: Clinical implications include improved pain relief and function for appropriately selected patients.",
+            "Paragraph 3: Future directions include long-term studies, comparative effectiveness research, and innovation in implant design.",
+            "Paragraph 4: SI joint fusion offers a valuable surgical option, but careful patient selection and technique are essential for optimal outcomes."
+          ],
+          "mapped_sources": [
+            {
+              "id": "Cher 2015",
+              "author": "Cher et al.",
+              "year": "2015"
+            },
+            {
+              "id": "Analysis of Complications in Sacroiliac Joint Fusions Using FDA 510(k) Cleared Devices",
+              "author": "Rahl et al.",
+              "year": "2020"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
