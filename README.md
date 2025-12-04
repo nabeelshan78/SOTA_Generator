@@ -40,13 +40,15 @@ GEMINI_API_KEY="your_actual_api_key_here"
 
 ```
 
-- Adjust model settings in src/config.py if you want to switch between models
+- Adjust model settings in src/config.py if you want to switch between models and adjust temperature settings.
 
 ## 4. How to Run
 
 The entire pipeline is orchestrated via main.py:
 
+```
 python main.py
+```
 
 ## The Workflow
 
